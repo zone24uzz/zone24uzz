@@ -1,63 +1,78 @@
-<div align="center">
+<h1 align="center">Привет, я Komron Xidoyatov 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;3D+Web+Enthusiast;Building+Digital+Marketplaces" alt="Typing SVG" />
+</p>
 
-# ⚡ Komron Xidoyatov
-### Frontend-разработчик & 3D Web Enthusiast
-
-<br>
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200px">
-
-<br>
-<br>
-
-**"Превращаю сложные идеи в элегантный код и интерактивные 3D-миры."**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zone24uzz) 
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zone24uzz&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
-## 🛠 Мой технологический арсенал
-| Категория | Технологии |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Tailwind CSS, Framer Motion |
-| **3D & Creative** | Three.js, React Three Fiber, GSAP |
-| **Backend & DB** | Node.js, Prisma, MongoDB, Supabase |
-| **Tools** | Git, Vercel, Cursor, Docker |
+## 🛠 About Me
+
+<p align="left">
+Frontend-разработчик, увлеченный созданием интерактивных веб-приложений и 3D-графики в браузере. Моя страсть — превращать сложные задачи в удобные цифровые продукты с акцентом на производительность и современный дизайн.
+</p>
+
+* **💼 Specialization:** Frontend development, 3D web interfaces, E-commerce solutions.
+* **🌍 Location:** Tashkent, Uzbekistan 🇺🇿
+* **⚡️ Tools:** React, Three.js, Node.js, Prisma, Tailwind CSS, Vercel.
+* **🚀 Currently working on:** Mars Market (marketplace project) & interactive web portfolios.
 
 ---
 
-## 🚀 Текущие фокусы
-- 🌐 **Mars Market:** Масштабируемая e-commerce платформа.
-- 🎨 **Creative Dev:** Эксперименты с 3D-графикой и шейдерами.
-- 👨‍💻 **Open Source:** Постоянное совершенствование проектов *True Fitness* и *Elias Project*.
+## 🚀 Tech Stack
+
+### 💻 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" alt="Frontend Tools" />
+</p>
+
+### ⚛️ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frameworks" />
+</p>
+
+### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb" alt="Backend Tools" />
+</p>
+
+### 🎨 3D Graphics & Animation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=threejs" alt="3D Graphics" />
+</p>
 
 ---
 
-<div align="center">
+## 📈 Premium Metrics
 
-### 📊 Статистика активности
-<img src="https://github-readme-stats.vercel.app/api?username=zone24uzz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zone24uzz&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=zone24uzz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="195" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zone24uzz&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
+    </td>
+  </tr>
+</table>
 
-<br>
-<br>
-
-<a href="https://github.com/zone24uzz">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zone24uzz&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zone24uzz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
 
 ---
 
-<div align="center">
-  <p><i>Связаться со мной: <b>Telegram / Email</b></i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%20Coding%20&fontSize=30" />
-</div>
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="https://t.me/obove01" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:komronxidoyatov@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
