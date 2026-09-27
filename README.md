@@ -16,8 +16,12 @@
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-xidoyatovkomron.uz-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://t.me/obove01">
+  <a href="https://t.me/khidoyatow">
     <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/khidoyatov.komron">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
   <a href="mailto:komronxidoyatov@gmail.com">
@@ -157,8 +161,12 @@ I'm open to interesting projects, collaborations and Full Stack development oppo
     <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://t.me/obove01">
+  <a href="https://t.me/khidoyatow">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/khidoyatov.komron">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
   <a href="mailto:komronxidoyatov@gmail.com">
