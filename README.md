@@ -1,78 +1,177 @@
-<h1 align="center">Привет, я Komron Xidoyatov 👋</h1>
+<h1 align="center">Hi, I'm Komron Xidoyatov 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;3D+Web+Enthusiast;Building+Digital+Marketplaces" alt="Typing SVG" />
+  <strong>Full Stack Developer from Tashkent, Uzbekistan 🇺🇿</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zone24uzz&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" alt="Profile views" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%26+Next.js+Developer;Node.js+%26+Database+Development;Building+Modern+Web+Applications"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <a href="https://xidoyatovkomron.uz">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-xidoyatovkomron.uz-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/obove01">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="mailto:komronxidoyatov@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zone24uzz&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## 🛠 About Me
+## 👨‍💻 About Me
 
-<p align="left">
-Frontend-разработчик, увлеченный созданием интерактивных веб-приложений и 3D-графики в браузере. Моя страсть — превращать сложные задачи в удобные цифровые продукты с акцентом на производительность и современный дизайн.
-</p>
+I'm a **Full Stack Developer** focused on building complete, scalable and modern web applications — from polished frontend interfaces to backend APIs, databases and deployment.
 
-* **💼 Specialization:** Frontend development, 3D web interfaces, E-commerce solutions.
-* **🌍 Location:** Tashkent, Uzbekistan 🇺🇿
-* **⚡️ Tools:** React, Three.js, Node.js, Prisma, Tailwind CSS, Vercel.
-* **🚀 Currently working on:** Mars Market (marketplace project) & interactive web portfolios.
+I enjoy turning ideas into real digital products with strong performance, clean architecture and modern user experiences.
+
+My main stack includes **React, Next.js, Node.js, Express, MongoDB, Prisma and Tailwind CSS**.
+
+- 💻 **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+- ⚙️ **Backend:** Node.js, Express, REST APIs
+- 🗄️ **Databases:** MongoDB, Prisma
+- 🎨 **UI/UX:** Responsive interfaces, dashboards, admin panels, animations
+- 🧊 **3D Web:** Three.js
+- 🤖 **AI:** AI integrations, agents and automation
+- 🚀 **Deployment:** Vercel
+- 📍 **Location:** Tashkent, Uzbekistan 🇺🇿
+- 🌐 **Portfolio:** [xidoyatovkomron.uz](https://xidoyatovkomron.uz)
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" alt="Frontend Tools" />
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Technologies" />
 </p>
 
-### ⚛️ Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frameworks" />
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
 </p>
 
-### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb" alt="Backend Tools" />
+### 🗄️ Database & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,prisma" alt="Database Technologies" />
 </p>
 
-### 🎨 3D Graphics & Animation
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=threejs" alt="3D Graphics" />
+### 🧊 3D & Creative Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
+</p>
+
+### 🧰 Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,npm" alt="Development Tools" />
 </p>
 
 ---
 
-## 📈 Premium Metrics
+## 🧠 What I Do
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=zone24uzz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="195" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zone24uzz&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
-    </td>
-  </tr>
-</table>
+```text
+⚡ Full Stack Web Applications
+🎨 Modern Frontend Interfaces
+⚙️ Backend APIs & Business Logic
+🗄️ Database Architecture
+📊 Dashboards & Admin Panels
+🛒 E-commerce & Marketplace Platforms
+🤖 AI-powered Applications & Automation
+🧊 Interactive 3D Web Experiences
+📱 Responsive Websites
+🚀 Production Deployment
+```
+
+---
+
+## 🌐 Portfolio
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zone24uzz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <a href="https://xidoyatovkomron.uz">
+    <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-xidoyatovkomron.uz-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="View Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  Explore my projects, applications and development work.
+</p>
+
+<p align="center">
+  <strong>
+    <a href="https://xidoyatovkomron.uz">→ xidoyatovkomron.uz ←</a>
+  </strong>
 </p>
 
 ---
 
-## 📬 Connect with Me
+## 📊 GitHub Analytics
 
-<p align="left">
-  <a href="https://t.me/obove01" target="_blank">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zone24uzz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117"
+    height="180"
+    alt="Komron's GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zone24uzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=zone24uzz&theme=tokyonight&hide_border=true&background=0D1117"
+    width="95%"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to interesting projects, collaborations and Full Stack development opportunities.
+
+<p align="center">
+  <a href="https://xidoyatovkomron.uz">
+    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/obove01">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:komronxidoyatov@gmail.com" target="_blank">
+  &nbsp;
+  <a href="mailto:komronxidoyatov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <b>From frontend to backend — building complete digital products.</b>
+</p>
+
+<p align="center">
+  <a href="https://xidoyatovkomron.uz">xidoyatovkomron.uz</a>
 </p>
