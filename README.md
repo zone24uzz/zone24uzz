@@ -1,12 +1,16 @@
-<h1 align="center">Hi, I'm Komron Xidoyatov 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Hi%20There!%20I'm%20Komron%20👋&fontSize=32&fontColor=00E5FF&animation=fadeIn&fontAlignY=38" width="100%"/>
+</div>
 
 <p align="center">
-  <strong>Full Stack Developer from Tashkent, Uzbekistan 🇺🇿</strong>
+  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Things-success?style=for-the-badge&logo=appveyor&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Location-Tashkent%2C%20Uzbekistan-blue?style=for-the-badge&logo=maestro&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-informational?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%26+Next.js+Developer;Node.js+%26+Database+Development;Building+Modern+Web+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%26+Next.js+Specialist;Node.js+%26+Database+Architect;Building+Scalable+Web+Applications"
     alt="Typing SVG"
   />
 </p>
@@ -17,72 +21,55 @@
   </a>
   &nbsp;
   <a href="https://t.me/khidoyatow">
-    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" alt="Telegram" />
   </a>
   &nbsp;
   <a href="https://instagram.com/khidoyatov.komron">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" />
   </a>
   &nbsp;
   <a href="mailto:komronxidoyatov@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zone24uzz&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zone24uzz&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge&color=00E5FF" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** focused on building complete, scalable and modern web applications — from polished frontend interfaces to backend APIs, databases and deployment.
+I'm a passionate **Full Stack Developer** focused on building complete, high-performance and modern web applications — from polished, interactive frontend interfaces to robust backend architectures, APIs, and scalable databases.
 
-I enjoy turning ideas into real digital products with strong performance, clean architecture and modern user experiences.
-
-My main stack includes **React, Next.js, Node.js, Express, MongoDB, Prisma and Tailwind CSS**.
-
-- 💻 **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
-- ⚙️ **Backend:** Node.js, Express, REST APIs
-- 🗄️ **Databases:** MongoDB, Prisma
-- 🎨 **UI/UX:** Responsive interfaces, dashboards, admin panels, animations
-- 🧊 **3D Web:** Three.js
-- 🤖 **AI:** AI integrations, agents and automation
-- 🚀 **Deployment:** Vercel
-- 📍 **Location:** Tashkent, Uzbekistan 🇺🇿
-- 🌐 **Portfolio:** [xidoyatovkomron.uz](https://xidoyatovkomron.uz)
+I enjoy turning complex ideas into clean, efficient, and user-centric digital products with seamless user experiences.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Skills
 
-### 🎨 Frontend
-
+### 🎨 Frontend & UI
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Technologies" />
 </p>
 
-### ⚙️ Backend
-
+### ⚙️ Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
 </p>
 
-### 🗄️ Database & ORM
-
+### 🗄️ Databases & ORM
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,prisma" alt="Database Technologies" />
 </p>
 
 ### 🧊 3D & Creative Development
-
 <p>
   <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
 </p>
 
-### 🧰 Tools & Deployment
-
+### 🧰 Tools, Git & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,npm" alt="Development Tools" />
 </p>
@@ -92,94 +79,8 @@ My main stack includes **React, Next.js, Node.js, Express, MongoDB, Prisma and T
 ## 🧠 What I Do
 
 ```text
-⚡ Full Stack Web Applications
-🎨 Modern Frontend Interfaces
-⚙️ Backend APIs & Business Logic
-🗄️ Database Architecture
-📊 Dashboards & Admin Panels
-🛒 E-commerce & Marketplace Platforms
-🤖 AI-powered Applications & Automation
-🧊 Interactive 3D Web Experiences
-📱 Responsive Websites
-🚀 Production Deployment
-```
-
----
-
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://xidoyatovkomron.uz">
-    <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-xidoyatovkomron.uz-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="View Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  Explore my projects, applications and development work.
-</p>
-
-<p align="center">
-  <strong>
-    <a href="https://xidoyatovkomron.uz">→ xidoyatovkomron.uz ←</a>
-  </strong>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zone24uzz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117"
-    height="180"
-    alt="Komron's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zone24uzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=zone24uzz&theme=tokyonight&hide_border=true&background=0D1117"
-    width="95%"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm open to interesting projects, collaborations and Full Stack development opportunities.
-
-<p align="center">
-  <a href="https://xidoyatovkomron.uz">
-    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/khidoyatow">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/khidoyatov.komron">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="mailto:komronxidoyatov@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>From frontend to backend — building complete digital products.</b>
-</p>
-
-<p align="center">
-  <a href="https://xidoyatovkomron.uz">xidoyatovkomron.uz</a>
-</p>
+⚡ Full Stack Web Applications       🛒 E-commerce & Marketplaces
+🎨 Modern Frontend Interfaces       🤖 AI-powered Apps & Automation
+⚙️ Backend APIs & Business Logic    🧊 Interactive 3D Web Experiences
+🗄️ Database Architecture            📱 Fully Responsive Layouts
+📊 Dashboards & Admin Panels        🚀 Production Deployment
